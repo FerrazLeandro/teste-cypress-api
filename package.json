@@ -1,0 +1,22 @@
+{
+  "name": "aula05",
+  "version": "1.0.0",
+  "description": "Teste de API com cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FerrazLeandro/cypress-api.git"
+  },
+  "author": "Leandro Ferraz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FerrazLeandro/cypress-api/issues"
+  },
+  "homepage": "https://github.com/FerrazLeandro/cypress-api#readme",
+  "dependencies": {
+    "cypress": "^9.0.0"
+  }
+}
